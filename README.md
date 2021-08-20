@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francis
-- 👀 I’m interested in Science
+- 👀 I’m interested in renewables
 - 🌱 I’m currently learning new tricks
 - 💞️ I’m looking to collaborate on coding stuff
 - 📫 How to reach me Francis.Ferro@edf-re.com
