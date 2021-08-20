@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Francis
+- 👋 Hi, I’m Francis
 - 👀 I’m interested in Science
 - 🌱 I’m currently learning new tricks
 - 💞️ I’m looking to collaborate on coding stuff
